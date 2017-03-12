@@ -21,3 +21,8 @@
 ....objc
 [JLStatusBarHUD showMessage:@"没有什么事"];
 .....
+
+#显示隐藏信息
+....objc
+[JLStatusBarHUD hide];
+.....
